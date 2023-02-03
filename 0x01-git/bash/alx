@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 0x01-git/bash/alx: needs merge
+=======
+
+echo "ALX School is so cool!"
+>>>>>>> 915903a09c6bbcb7526815912d99e93d6d0ab1c6
